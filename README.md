@@ -4,6 +4,8 @@ The [mouse grouping tool](http://zhangluhui.shinyapps.io/mousegroupingtool) is d
 App URL:<br />
 [http://zhangluhui.shinyapps.io/mousegroupingtool](http://zhangluhui.shinyapps.io/mousegroupingtool)
 
+<a href = "http://zhangluhui.shinyapps.io/mousegroupingtool">mouse grouping tool
+
 App developer:<br />
 Luhui Zhang (zhang.luhui@mayo.edu)<br />
 Fei Sun
