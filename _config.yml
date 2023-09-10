@@ -1,15 +1,11 @@
 title: Mouse Grouping Tool
-#Computational Tools for Biomedical Research
+
 author:
   name: Luhui Zhang, Fei Sun
   email: "zhang.luhui@mayo.edu"
   
 description: >
-  The mouse grouping tool is designed to efficiently organize mice into multiple groups 
-  while ensuring that each group exhibits consistent means and variances in body weight. 
-  Additionally, it aims to minimize the need for intermixing mice from different housing 
-  cages (minimizing mouse order changes as shown in the results given by the app), thereby 
-  optimizing the handling and care of the mice.
+ Computational Tools for Biomedical Research
 
 theme: minima
 
