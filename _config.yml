@@ -1,7 +1,7 @@
-title: Computational Tools for Biological Research
+title: Computational Tools for Biomedical Research
   
 author:
-  name: Luhui Zhang & Fei Sun
+  name: Luhui Zhang, Fei Sun
   email: "zhang.luhui@mayo.edu"
   
 description: >
@@ -16,4 +16,5 @@ theme: minima
 minima:
 header_pages:
   - about.md
-show_excerpts: false
+  
+show_excerpts: true
