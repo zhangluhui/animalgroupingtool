@@ -14,5 +14,4 @@ description: >
 theme: minima
 
 minima:
-header_pages:
 show_excerpts: true
