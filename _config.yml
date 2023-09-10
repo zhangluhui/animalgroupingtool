@@ -1,9 +1,5 @@
 theme: minima
 
-header_pages:
-  - about.md
-  - portfolio.md
-
 author:
-  name: Luhui Zhang
+  name: Luhui Zhang, Fei Sun
   email: "zhang.luhui@mayo.edu"
