@@ -5,7 +5,7 @@ The <a href="https://zhangluhui.shinyapps.io/AnimalGroupingTool">animal grouping
 <a href="https://zhangluhui.shinyapps.io/AnimalGroupingTool">https://zhangluhui.shinyapps.io/AnimalGroupingTool</a>
 
 <h4>App developer:</h4>
-<a href="mailto:zhang.luhui@mayo.edu">Luhui Zhang</a>
+Luhui Zhang
 
 Fei Sun
 
